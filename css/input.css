@@ -1,0 +1,75 @@
+.acf-accordion-icon {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.acf-field_634f9eccad1bf {
+    color: #fff;
+}
+
+.acf-field.acf-accordion {
+    border: none;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.acf-field {
+    border: none;
+    margin-top: 20px;
+
+}
+
+.postbox-header {
+    border: none;
+    padding: 0;
+
+}
+
+.acf-field.acf-accordion .acf-label.acf-accordion-title {
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+}
+
+.acf-field.acf-accordion {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.acf-field.acf-accordion .acf-label.acf-accordion-title {
+    background-color: #d9d9f1;
+}
+
+.acf-field.acf-accordion .acf-label.acf-accordion-title:hover {
+    background-color: #d9d9f1;
+}
+
+.acf-field.acf-accordion .acf-label.acf-accordion-title label {
+    color: #000;
+}
+
+.-open .acf-accordion-title {
+    background-color: #d9d9f1 !important;
+}
+
+.acf-accordion .acf-accordion-title svg.acf-accordion-icon {
+    color: #000;
+    width: 32px;
+    height: 32px;
+}
+
+.acf-accordion .acf-accordion-title label {
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.acf-field.acf-accordion .acf-label.acf-accordion-title {
+    box-shadow: 0 4px 4px -2px rgba(168, 165, 165, 0.4);
+}
+
+.acf-field-setting-icon_class {
+    display: none;
+}
